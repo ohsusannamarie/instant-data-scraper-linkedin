@@ -167,12 +167,9 @@ Users are responsible for complying with:
 
 ## About Me
 
-Built and maintained by Susanna Conway.
+Built and maintained by [Susanna Conway](https://github.com/ohsusannamarie).
 
 - 3x SourceCon Hackathon Champion
-- Talent Intelligence & Sourcing Strategist at Marvell
+- Talent Intelligence & Sourcing Strategist
 - Builder of sourcing systems, recruiter tooling, and workflow command centers
 - Turning recruiting chaos into structured, searchable systems since before it was trendy
-
-GitHub:
-https://github.com/ohsusannamarie
