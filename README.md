@@ -170,9 +170,9 @@ Users are responsible for complying with:
 Built and maintained by Susanna Conway.
 
 - 3x SourceCon Hackathon Champion
-- Talent Intelligence & Sourcing Strategist
-- Builder of weird recruiter tools that probably should not exist
-- Lover of systems, search, workflows, and organized chaos
+- Talent Intelligence & Sourcing Strategist at Marvell
+- Builder of sourcing systems, recruiter tooling, and workflow command centers
+- Turning recruiting chaos into structured, searchable systems since before it was trendy
 
 GitHub:
 https://github.com/ohsusannamarie
