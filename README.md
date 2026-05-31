@@ -1,32 +1,178 @@
-# Instant Data Scraper Chrome Extension v0.1.7
+# ⚡ Instant Data Scraper Chrome Extension v0.1.7 (LinkedIn-Compatible Version)
 
-## Hakkında
+A preserved and packaged version of the classic Instant Data Scraper Chrome extension with LinkedIn scraping functionality still intact.
 
-Bu Chrome uzantısı, web sayfalarından hızlı bir şekilde veri çekmenizi sağlar.
-LinkedIn profilleri dahil olmak üzere çeşitli web sitelerinden bilgi toplayabilirsiniz.
+Built for recruiters, talent sourcers, researchers, OSINT workflows, sales prospecting, and anyone who needs structured data out of messy web pages quickly.
 
-## Özellikler
+---
 
-- 🚀 Hızlı veri kazıma
-- 📊 LinkedIn profil bilgilerini çekebilme
-- 💾 Verileri CSV veya JSON olarak dışa aktarma
-- ⚡ Kullanımı kolay arayüz
+## Why This Repo Exists
 
-## Kurulum
+A lot of people relied on Instant Data Scraper because it was:
 
-1. Bu repoyu indirin
-2. Chrome'da `chrome://extensions/` adresine gidin
-3. "Geliştirici modu"nu aktif edin
-4. "Paketlenmemiş uzantı yükle" butonuna tıklayın
-5. "Instant Data Scraper" klasörünü seçin
+- lightweight
+- easy to use
+- surprisingly powerful
+- no-code friendly
+- fast for exploratory scraping
 
-## Kullanım
+Over time, versions changed, support became inconsistent, and LinkedIn compatibility became harder to find.
 
-1. Uzantı simgesine tıklayın
-2. Veri çekmek istediğiniz elementi seçin
-3. "Başlat" butonuna basın
-4. Verilerinizi indirin
+This repo preserves a working version commonly used by sourcing and recruiting professionals.
 
-## Lisans
+---
 
-Bu proje açık kaynaklıdır ve eğitim amaçlıdır.
+## What It Can Do
+
+- Extract structured data from websites
+- Scrape listing-style pages automatically
+- Export results to CSV or Excel
+- Pull data from:
+  - LinkedIn
+  - job boards
+  - directories
+  - marketplaces
+  - search results
+  - company pages
+  - internal tools
+  - and more
+
+Works especially well for:
+- talent sourcing
+- lead generation
+- market research
+- recruiting operations
+- contact gathering
+- lightweight OSINT workflows
+
+---
+
+## Example Recruiting Use Cases
+
+### Talent Sourcing
+- scrape LinkedIn search results
+- export candidate lists
+- capture company employee pages
+- gather hiring trends
+
+### Competitive Intelligence
+- compare engineering org structures
+- map talent movement
+- analyze hiring velocity
+
+### Recruiting Operations
+- build outreach lists
+- clean sourcing workflows
+- reduce repetitive copy/paste work
+
+---
+
+## Installation
+
+1. Download or clone this repository
+2. Open Chrome and go to:
+
+text chrome://extensions 
+
+3. Enable Developer Mode
+4. Click Load unpacked
+5. Select the Instant Data Scraper folder
+
+Done.
+
+---
+
+## How to Use
+
+1. Navigate to a webpage with list-style data
+2. Open the extension
+3. Let IDS auto-detect tables and records
+4. Adjust selections if needed
+5. Export to CSV or Excel
+
+---
+
+## Important Notes
+
+### LinkedIn Warning
+Use responsibly and respect platform Terms of Service.
+
+Heavy automation or aggressive scraping behavior may trigger:
+- rate limiting
+- temporary restrictions
+- CAPTCHA challenges
+- account warnings
+
+This repository is intended for:
+- educational purposes
+- workflow experimentation
+- lightweight/manual data extraction
+
+---
+
+## Technical Details
+
+Current packaged version:
+- v0.1.7
+- Manifest V2 Chrome extension
+
+The extension uses:
+- JavaScript
+- jQuery
+- content scripts
+- DOM pattern detection
+
+Manifest details available here:
+Instant Data Scraper/manifest.json
+
+---
+
+## Who This Is For
+
+This repo will probably be useful if you are:
+- a recruiter
+- a talent sourcer
+- a researcher
+- a growth operator
+- an analyst
+- an automation nerd
+- someone tired of copy/pasting data manually
+
+---
+
+## Related Projects
+
+### Bookmarklet OS
+A searchable command center for hundreds of sourcing/research bookmarklets.
+
+### Awesome Talent Sourcing
+Curated sourcing tools, extensions, websites, and recruiting resources.
+
+### GitHub Advanced Search
+A recruiter-friendly reference guide for GitHub search operators.
+
+---
+
+## Disclaimer
+
+This repository is provided as-is for educational and research purposes.
+
+Users are responsible for complying with:
+- website Terms of Service
+- applicable laws
+- platform policies
+- ethical data usage practices
+
+---
+
+## About Me
+
+Built and maintained by Susanna Conway.
+
+- 3x SourceCon Hackathon Champion
+- Talent Intelligence & Sourcing Strategist
+- Builder of weird recruiter tools that probably should not exist
+- Lover of systems, search, workflows, and organized chaos
+
+GitHub:
+https://github.com/ohsusannamarie
